@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bg-image
+{
+    background-image: url("/public/todo-background.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    /* border: 2px solid red; */
+    border-radius: 10px;
+}
